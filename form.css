@@ -1,0 +1,60 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(189, 255, 233);  
+}
+
+
+h2{
+    text-decoration: underline;
+    color: rgb(2, 69, 49);
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.container{
+    text-align: center;
+    width: 500px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgb(1, 66, 46);
+    border-color: #fff;
+    margin-bottom: 50px;
+    
+}
+label{
+    display: flex;
+    justify-content: left;
+    margin-left: 30px;
+    color: rgb(4, 128, 91);
+    font-size: 19px;
+    font-weight: bold;
+}
+input{
+    padding: 5px;
+
+}
+.tomaintain{
+    float: left;
+    margin-left: 30px;
+}
+.inside{
+    float: left;
+    margin-left: 30px;
+}
+.width{
+    width: 400px;
+}
+button{
+    width: 400px;
+    padding: 10px 20px;
+    background-color: rgb(1, 66, 46);
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+button:hover{ 
+    background-color: azure;
+    color: black;
+    
+}
+
+
